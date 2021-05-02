@@ -1,15 +1,10 @@
 # Simple Calculator
-# by TokyoEdtech
 # Python 3.9 using Geany Editor
 # Ubuntu Linux (Mac and Windows Compatible)
 
-# Topic: Key binding
-# REF: https://pythonprogramming.altervista.org/tkinter-examples-binding-keys/
 
-# Shoutouts:
-# 16-Bit Members Kevin "The Snake"
-# 16-Bit Members Paul, Jan, and Mohd "The Invaders"
-# 8-Bit Member Kim-Siong "The Invader"
+
+
 
 import tkinter
 
