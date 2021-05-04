@@ -1,11 +1,6 @@
 # Simple Calculator
 # Python 3.9 using Geany Editor
 # Ubuntu Linux (Mac and Windows Compatible)
-
-
-
-
-
 import tkinter
 
 root = tkinter.Tk()
