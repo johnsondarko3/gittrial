@@ -1,2 +1,2 @@
 # gittrial
-As a technophile student of IT & Computing and Electronic Engineering student.My mission is to be a pioneer in software development.
+As a technophile student of Electronic Engineering.My mission is to be a pioneer in  industrial Design and software development .
